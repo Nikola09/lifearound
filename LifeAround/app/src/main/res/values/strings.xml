@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">LifeAround</string>
+    <string name="title_map">Map</string>
+    <string name="title_events">Events</string>
+    <string name="title_addEvent">Add Event</string>
+    <string name="title_people">People</string>
+    <string name="title_news">News</string>
+    <string name="title_account">Account</string>
+    <string name="btn_new_event">Create new event</string>
+    <string name="btn_add_friend">Add friend (bluetooth)</string>
+    <string name="btn_changeacc">change password or status</string>
+    <string name="socialpoints">Social points</string>
+    <string name="userpic">users picture</string>
+    <string name="btn_change_password">change password</string>
+    <string name="btn_change_status">change status</string>
+    <string name="recent_news">Recent Notifications</string>
+    <string name="starts_at">Starts at:</string>
+    <string name="ends_at">Ends at:</string>
+    <string name="title">Title:</string>
+    <string name="description">Description:</string>
+    <string name="organizer">Organizer:</string>
+    <string name="name">Name:</string>
+    <string name="status">Status:</string>
+    <string name="spuser">Social points:</string>
+    <string name="select">Select</string>
+    <string name="cancel">Cancel</string>
+    <string name="date_format">yyyy/MM/dd</string>
+    <string name="time_format">hh:mm</string>
+    <string name="select_loc">Select Location</string>
+    <string name="welcome_text">Welcome to Life Around</string>
+    <string name="register">Register</string>
+    <string name="registtration">Registration</string>
+    <string name="logout">Logout</string>
+    <string name="available_devices">Available Devices:</string>
+    <string name="scan">Scan</string>
+    <string name="become_visible">Become visible</string>
+    <string name="map_filter">Map filter</string>
+    <string name="filter">Filter</string>
+    <string name="date">Date:</string>
+    <string name="distance">Distance:</string>
+    <string name="btn_default">Default</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_password_confirm">Confirm Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>

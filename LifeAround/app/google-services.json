@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "707689598374",
+    "firebase_url": "https://lifearound-cd6fa.firebaseio.com",
+    "project_id": "lifearound-cd6fa",
+    "storage_bucket": "lifearound-cd6fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707689598374:android:94357af18ff7d3724cd367",
+        "android_client_info": {
+          "package_name": "com.example.lifearound"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707689598374-vdq2ic4ai2v7skp3lg5uisj2rjh0596u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lifearound",
+            "certificate_hash": "945d6433455f8670b8cdea40313c9125aef08e87"
+          }
+        },
+        {
+          "client_id": "707689598374-jqbjnv2chgilu3mka0lc6pkvjnj1j4pl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7lm1536nq2WY5eox34ZqVfjeRF6pl2zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707689598374-jqbjnv2chgilu3mka0lc6pkvjnj1j4pl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
